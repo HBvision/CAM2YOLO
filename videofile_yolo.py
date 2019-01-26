@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+#USE TESTVIDEOS git Repository for basic testing.
+
 import cv2 #imports openCV library
 from darkflow.net.build import TFNet #From the machine learning model, import the commands for detection
 import numpy as np
